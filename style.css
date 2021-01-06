@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+
+    font-family: 'Playfair Display', serif;
+    
+}
+
+
+.quater-one{
+
+    width: 40%;
+    margin: 0% 1%;
+    
+}
+
+.quater-one p{
+    margin-left: 2%;
+}
+
+
+h1{
+
+    color: rgb(48, 48, 87);
+    font-size: 60px;
+    
+}
+
+.name-color{
+    color: rgb(241, 99, 146);
+}
+
+p{
+    color: rgb(19, 30, 54);
+}
+
+
+
+ ul{
+     list-style-type: none;
+     float:right;
+     padding-right: 30px;
+     width: 30%;
+     
+ 
+ }
+
+ul li {
+
+    display: inline-block;
+    margin: 5px 20px;
+}
+
+
+ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    color:rgb(46, 28, 65)
+}
+
+.quater-two{
+    width: 30%;
+    padding-top: 2%;
+    float: right;
+    
+     
+}
+
+.quater-two img{
+    width: 100%;
+    margin-left: 20%;
+}
+    
+   
+ 
+
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, salmon,tomato);
+    color: white;
+    padding: 5px 10px;
+    margin: 0 35px;
+    border-radius: 5px;
+   
+    
+}
+
+section{
+    height: 400px;
+    padding-bottom: 150px;
+}
+
+.half-width{
+
+    width: 30%;
+    padding-left: 10px;
+
+
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.about-text{
+
+    width: 30%;
+    float: right;
+    margin-top: -25%;
+    margin-right: 30px;
+    text-align: justify;
+}
+
+#project-area{
+
+    background-color: rgb(240, 234, 234);
+}
+
+
+.box{
+    background-color: yellow;
+    width: 27%;
+    height: 90%;
+    float: left;
+    margin: 5% 3%;
+    background-color: white;
+    border-radius: 20px;
+    
+    
+}
+
+.box img{
+    width: 100%;
+}
+
+#project-area,h1{
+    
+    padding-top: 8%;
+    text-align: center;
+}
+
+.inquiry img{
+    width: 700px;
+    margin-top: 5%;
+    margin-left: 23%;
+
+
+}
+
+.mail-add{
+
+    text-align: center;
+
+}
+
+.mail-add ul{
+    width: 100%;
+
+}
+.mail-add ul li img{
+   
+    width: 40px;
+    margin-left: 30px;
+    
+    
+}
+
+
+
